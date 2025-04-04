@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+#gora{
+    display: flex;
+    text-align: center;
+    background-color: red;
+    height: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+
+#img{
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 800px;
+}
